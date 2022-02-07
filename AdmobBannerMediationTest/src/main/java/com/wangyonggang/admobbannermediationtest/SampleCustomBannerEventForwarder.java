@@ -1,4 +1,4 @@
-package com.wangyonggang.admobbannerhuawei;
+package com.wangyonggang.admobbannermediationtest;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.mediation.customevent.CustomEventBannerListener;

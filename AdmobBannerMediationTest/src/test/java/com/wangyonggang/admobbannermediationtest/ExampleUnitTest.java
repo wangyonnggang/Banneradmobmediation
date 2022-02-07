@@ -1,4 +1,4 @@
-package com.wangyonggang.admobbannerhuawei;
+package com.wangyonggang.admobbannermediationtest;
 
 import org.junit.Test;
 

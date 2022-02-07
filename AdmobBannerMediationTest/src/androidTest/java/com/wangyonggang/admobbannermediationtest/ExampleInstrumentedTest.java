@@ -1,4 +1,4 @@
-package com.wangyonggang.admobbannerhuawei;
+package com.wangyonggang.admobbannermediationtest;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.wangyonggang.admobbannerhuawei.test", appContext.getPackageName());
+        assertEquals("com.wangyonggang.admobbannermediationtest.test", appContext.getPackageName());
     }
 }
