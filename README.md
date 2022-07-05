@@ -5,5 +5,13 @@ APK
 App ID:
 106611157
 
-This game does not collect any user data and does not have any permissions enabled,
-no privacy concerns
+
+### Permission usage
+
+The internet permission is used for ads and 
+
+### Collection of user data
+
+The app itself is not collection any personal data.
+
+
